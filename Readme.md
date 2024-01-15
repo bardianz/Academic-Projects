@@ -18,7 +18,7 @@ for python projects you have to use this command to install required packages:
 
 ## Database Management System
 
-![Database Python Mysql PyQt](Database Python Mysql PyQt/db project python mysql.gif?raw=true "Title")
+![Database Python Mysql PyQt](Database Python Mysql PyQt/db project python mysql.gif)
 
 ### Features
 
