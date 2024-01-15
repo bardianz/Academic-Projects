@@ -1,18 +1,20 @@
 
 # Introduction
 
-Some educational projects that have been done in the Mazandaran University of Science and Technology.
+Some educational projects that have been done in the Mazandaran University of Science and Technology. :computer:
 
 This repository includes projects, presentation files, documents and other stuff.
 
-[!WARNING]
+:yellow_square:
+**
 Using this repository is free for all.
+**
 
-[!TIP]
+***
+:red_circle: 
 for python projects you have to use this command to install required packages:
-
-`pip install requirements.txt`
-
+> ```pip install -r "requirements.txt" ```
+***
 
 ## Database Management System
 
