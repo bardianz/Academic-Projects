@@ -1,0 +1,7 @@
+D:\Uni\Data Structure\ساختمان داده محمدی نژاد\QueueExercise\QueueExercise\QueueExercise\bin\Debug\QueueExercise.exe.config
+D:\Uni\Data Structure\ساختمان داده محمدی نژاد\QueueExercise\QueueExercise\QueueExercise\bin\Debug\QueueExercise.exe
+D:\Uni\Data Structure\ساختمان داده محمدی نژاد\QueueExercise\QueueExercise\QueueExercise\bin\Debug\QueueExercise.pdb
+D:\Uni\Data Structure\ساختمان داده محمدی نژاد\QueueExercise\QueueExercise\QueueExercise\obj\Debug\QueueExercise.csproj.AssemblyReference.cache
+D:\Uni\Data Structure\ساختمان داده محمدی نژاد\QueueExercise\QueueExercise\QueueExercise\obj\Debug\QueueExercise.csproj.CoreCompileInputs.cache
+D:\Uni\Data Structure\ساختمان داده محمدی نژاد\QueueExercise\QueueExercise\QueueExercise\obj\Debug\QueueExercise.exe
+D:\Uni\Data Structure\ساختمان داده محمدی نژاد\QueueExercise\QueueExercise\QueueExercise\obj\Debug\QueueExercise.pdb
