@@ -1,7 +1,7 @@
 
 # Introduction
 
-Some educational projects that have been done in the Mazandaran University.
+Some educational projects that have been done in the Mazandaran University of Science and Technology.
 
 
 This repository includes projects, presentation files, documents and other stuff.
