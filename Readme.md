@@ -1,34 +1,31 @@
 
 # Introduction
 
-Some educational projects that have been done in the Mazandaran University of Science and Technology.
-
+Some educational projects that have been done in the Mazandaran University of Science and Technology. :computer:
 
 This repository includes projects, presentation files, documents and other stuff.
 
-
-[!WARNING]
+:yellow_square:
 Using this repository is free for all.
 
-[!TIP]
+
+:red_circle: 
 for python projects you have to use this command to install required packages:
+> ```pip install -r "requirements.txt" ```
 
-`pip install requirements.txt`
+# Database Management System
 
-
-## Database Management System
-
-![Database Python Mysql PyQt](Database Python Mysql PyQt/db project python mysql.gif?raw=true "Title")
+![Database](https://github.com/bardianz/Academic-Projects/blob/main/Database%20Python%20Mysql%20PyQt/db%20project%20python%20mysql.gif)
 
 ### Features
 
 - Python
 - Mysql (need to be installed)
-- PyQt Packafe (for UI)
+- PyQt Package (for UI)
 
 
 
-## FastAPI
+# FastAPI
 
 for Web Design/Internet Engineering course.
 
