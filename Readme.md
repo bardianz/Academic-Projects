@@ -27,7 +27,9 @@ for python projects you have to use this command to install required packages:
 
 # FastAPI
 
-for Web Design/Internet Engineering course.
+A Simple calculator for Web Design/Internet Engineering course.
+
+![FastAPI](https://github.com/bardianz/Academic-Projects/blob/main/FastAPI%20Simple%20Calculator%20App/FastApi-project.jpg)
 
 ### Features
 
