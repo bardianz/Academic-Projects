@@ -1,0 +1,4 @@
+exe/build/*
+exe/avg.spec
+__pycache__/*
+venv/*
