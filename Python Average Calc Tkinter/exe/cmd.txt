@@ -1,0 +1,1 @@
+pyinstaller ../avg.py --onefile --noconsole --windowed --icon=../assets/icon.ico --hidden-import pyodbc --add-data="../assets;assets" --add-data "../assets/icon.ico;assets" 
